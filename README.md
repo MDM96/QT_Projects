@@ -1,8 +1,7 @@
-Notepad Project for learding QT Wdigets
+Notepad Project for learning QT Wdigets
 
-In this project i've make using Qt framework, only using QtWidgets, without using QtDesigner.
+I developed this application using the Qt framework, entirely with QtWidgets and without relying on Qt Designer.
 
 Reuqirements:
 1. cmake17
-2. QT6
-
+2. Qt6
